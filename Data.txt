@@ -1,0 +1,19 @@
+Student 1:
+ID : 1
+First name: omar
+Last name: atef
+Age: 20
+phone: 011154228421
+Stage: one
+City: cario
+Address: BEN
+---
+Parent 1:
+ID : 1
+First name: atef
+Last name: hassan 
+Age: 40
+phone: 0112542365
+Stage: omare@gmail.com
+Address: Cairo
+--------------------------------------------------
