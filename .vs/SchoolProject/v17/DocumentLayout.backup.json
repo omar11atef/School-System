@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Javapj\\SchoolProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341C72-86D0-47AD-8E4A-40F12F109F6B}|SchoolProject\\SchoolProject.csproj|e:\\javapj\\schoolproject\\schoolproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341C72-86D0-47AD-8E4A-40F12F109F6B}|SchoolProject\\SchoolProject.csproj|solutionrelative:schoolproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341C72-86D0-47AD-8E4A-40F12F109F6B}|SchoolProject\\SchoolProject.csproj|e:\\javapj\\schoolproject\\schoolproject\\courseteachercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341C72-86D0-47AD-8E4A-40F12F109F6B}|SchoolProject\\SchoolProject.csproj|solutionrelative:schoolproject\\courseteachercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341C72-86D0-47AD-8E4A-40F12F109F6B}|SchoolProject\\SchoolProject.csproj|e:\\javapj\\schoolproject\\schoolproject\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341C72-86D0-47AD-8E4A-40F12F109F6B}|SchoolProject\\SchoolProject.csproj|solutionrelative:schoolproject\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341C72-86D0-47AD-8E4A-40F12F109F6B}|SchoolProject\\SchoolProject.csproj|e:\\javapj\\schoolproject\\schoolproject\\queriesmenu .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341C72-86D0-47AD-8E4A-40F12F109F6B}|SchoolProject\\SchoolProject.csproj|solutionrelative:schoolproject\\queriesmenu .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341C72-86D0-47AD-8E4A-40F12F109F6B}|SchoolProject\\SchoolProject.csproj|e:\\javapj\\schoolproject\\schoolproject\\queries .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341C72-86D0-47AD-8E4A-40F12F109F6B}|SchoolProject\\SchoolProject.csproj|solutionrelative:schoolproject\\queries .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341C72-86D0-47AD-8E4A-40F12F109F6B}|SchoolProject\\SchoolProject.csproj|e:\\javapj\\schoolproject\\schoolproject\\courseteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341C72-86D0-47AD-8E4A-40F12F109F6B}|SchoolProject\\SchoolProject.csproj|solutionrelative:schoolproject\\courseteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueriesMenu .cs",
+              "DocumentMoniker": "E:\\Javapj\\SchoolProject\\SchoolProject\\QueriesMenu .cs",
+              "RelativeDocumentMoniker": "SchoolProject\\QueriesMenu .cs",
+              "ToolTip": "E:\\Javapj\\SchoolProject\\SchoolProject\\QueriesMenu .cs",
+              "RelativeToolTip": "SchoolProject\\QueriesMenu .cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:10:36.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Queries .cs",
+              "DocumentMoniker": "E:\\Javapj\\SchoolProject\\SchoolProject\\Queries .cs",
+              "RelativeDocumentMoniker": "SchoolProject\\Queries .cs",
+              "ToolTip": "E:\\Javapj\\SchoolProject\\SchoolProject\\Queries .cs",
+              "RelativeToolTip": "SchoolProject\\Queries .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:43:31.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseTeacherRepository.cs",
+              "DocumentMoniker": "E:\\Javapj\\SchoolProject\\SchoolProject\\CourseTeacherRepository.cs",
+              "RelativeDocumentMoniker": "SchoolProject\\CourseTeacherRepository.cs",
+              "ToolTip": "E:\\Javapj\\SchoolProject\\SchoolProject\\CourseTeacherRepository.cs",
+              "RelativeToolTip": "SchoolProject\\CourseTeacherRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv1AAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:01:14.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "E:\\Javapj\\SchoolProject\\SchoolProject\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "SchoolProject\\DatabaseHelper.cs",
+              "ToolTip": "E:\\Javapj\\SchoolProject\\SchoolProject\\DatabaseHelper.cs",
+              "RelativeToolTip": "SchoolProject\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:51:40.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseTeachercs.cs",
+              "DocumentMoniker": "E:\\Javapj\\SchoolProject\\SchoolProject\\CourseTeachercs.cs",
+              "RelativeDocumentMoniker": "SchoolProject\\CourseTeachercs.cs",
+              "ToolTip": "E:\\Javapj\\SchoolProject\\SchoolProject\\CourseTeachercs.cs",
+              "RelativeToolTip": "SchoolProject\\CourseTeachercs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:50:51.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Javapj\\SchoolProject\\SchoolProject\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolProject\\Program.cs",
+              "ToolTip": "E:\\Javapj\\SchoolProject\\SchoolProject\\Program.cs",
+              "RelativeToolTip": "SchoolProject\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:50:26.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
